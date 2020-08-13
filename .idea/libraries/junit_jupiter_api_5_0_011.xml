@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="junit-jupiter-api-5.0.011">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../coursera1/lib/junit-jupiter-api-5.0.011.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
